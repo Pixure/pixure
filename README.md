@@ -1,0 +1,2 @@
+# pixure
+static pages
